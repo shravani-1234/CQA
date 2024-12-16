@@ -4,7 +4,7 @@ This is a web-based project designed to mimic a community question-answer websit
 
 ## Author
 
-- [@M-Charith](https://www.github.com/M-Charith)
+- [@Shravani-1234](https://www.github.com/Shravani-1234)
 
 ## Tech Stack
 
